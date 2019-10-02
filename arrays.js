@@ -25,7 +25,9 @@ function destructivelyAddElementToEndOfArray(array , element) {
 
 // Accessing An Element Exercises 
 
-
+function accessElementInArray() {
+  
+}
 
 
 
