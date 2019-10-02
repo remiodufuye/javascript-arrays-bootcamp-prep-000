@@ -45,6 +45,7 @@ function removeElementFromBeginningOfArray(array) {
   
 }
 
-function removeElementFromBeginningOfArray() {
+function removeElementFromBeginningOfArray(array) {
+  array.pop() ; 
   
 }
