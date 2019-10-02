@@ -45,4 +45,6 @@ function removeElementFromBeginningOfArray(array) {
   
 }
 
-function 
+function removeElementFromBeginningOfArray() {
+  
+}
